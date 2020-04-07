@@ -3,7 +3,7 @@
     <li>
       <p>
         First type the instance user, and then the IP address of your instance.
-        Finally, indicate the way you want your files to go.
+        Finally, inform the path you want your files to go.
         Click on generate CI file to download the file.
       </p>
     </li>
